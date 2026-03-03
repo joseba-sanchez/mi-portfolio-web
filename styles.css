@@ -1,0 +1,12 @@
+body {
+    background-color: pink;
+}
+h1 {
+    color: green;
+}
+p {
+    font-size: 50px;
+}
+button {
+    border-radius: 50%;
+}
